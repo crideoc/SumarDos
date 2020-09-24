@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         cambiar = findViewById(R.id.buttonCambiar);
         texto = findViewById(R.id.texto);
 
-
+//Comentario.
         sumar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
